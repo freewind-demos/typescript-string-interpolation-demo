@@ -1,5 +1,5 @@
-TypeScript Base Demo
-====================
+TypeScript String Interpolation Demo
+====================================
 
 ```
 npm install

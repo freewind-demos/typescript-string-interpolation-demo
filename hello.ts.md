@@ -1,0 +1,4 @@
+```
+Hello, $lang
+Hello, typescript
+```
