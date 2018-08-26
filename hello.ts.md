@@ -1,4 +1,4 @@
 ```
-Hello, $lang
-Hello, typescript
+Hello, $lang  <--- not working
+Hello, typescript  <--- works!
 ```
